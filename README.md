@@ -6,7 +6,7 @@
 中文：[在 GO 应用中使用简明架构](https://mikespook.com/2012/09/翻译在-go-应用中使用简明架构1/#more-1440)   
 
 
-## run
+## 运行
 1. 导入 sql 数据
 2. ```go run main.go```
 3. 访问:  ```http://localhost:8080/orders?userID=40&orderID=60```
